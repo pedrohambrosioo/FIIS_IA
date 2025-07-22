@@ -61,6 +61,8 @@ Esse projeto foi criado para auxiliar na organização e análise dos meus inves
 ## 📈 Status do Projeto
 
 🚧 **Em desenvolvimento** – funcionalidades em construção.
+        **-VERSÃO BRANCH MAIS ATUALIZADA: 22-07-2025**
+            
 
 ---
 
