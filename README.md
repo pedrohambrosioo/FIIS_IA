@@ -65,8 +65,7 @@ Esse projeto foi criado para auxiliar na organização e análise dos meus inves
 ---
 
 ## 📬 Contato
-
-Feito com dedicação por [Seu Nome Aqui]  
+ 
 📧 henpedroambr@gmail.com
 🔗 https://www.linkedin.com/in/pedro-ambrosio-659203271/  
 
