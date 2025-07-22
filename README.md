@@ -18,12 +18,12 @@ Esse projeto foi criado para auxiliar na organização e análise dos meus inves
 - Listará os fundos com **maiores altas e baixas do dia**.
 
 #### 📦 Armazenamento
-- Armazenar os dados coletados em um **banco de dados**.
-- Histórico diário dos FIIs que apresentaram os **melhores retornos**.
+- Armazenar os dados no **MySQL**.
+- Histórico diário dos FIIs que apresentaram os **melhores e piores retornos**.
 
 #### 📊 Análise Pessoal
 - Analisar automaticamente os **fundos que já estão na carteira**.
-- Exibir **comparativos** com o mercado geral.
+
 
 #### 🗓️ Relatório Mensal
 - Gerar relatório mensal dos fundos monitorados e da carteira atual.
