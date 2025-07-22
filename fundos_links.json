@@ -1,22 +1,52 @@
 [
     {
         "nome": "CCME11",
-        "url": "https://www.fundsexplorer.com.br/funds/ccme11"
+        "url": "https://www.fundsexplorer.com.br/funds/ccme11",
+        "variacao": "1,93%"
     },
     {
         "nome": "RBFF11",
-        "url": "https://www.fundsexplorer.com.br/funds/rbff11"
+        "url": "https://www.fundsexplorer.com.br/funds/rbff11",
+        "variacao": "1,20%"
     },
     {
         "nome": "GZIT11",
-        "url": "https://www.fundsexplorer.com.br/funds/gzit11"
+        "url": "https://www.fundsexplorer.com.br/funds/gzit11",
+        "variacao": "0,91%"
     },
     {
         "nome": "PVBI11",
-        "url": "https://www.fundsexplorer.com.br/funds/pvbi11"
+        "url": "https://www.fundsexplorer.com.br/funds/pvbi11",
+        "variacao": "0,83%"
     },
     {
         "nome": "PORD11",
-        "url": "https://www.fundsexplorer.com.br/funds/pord11"
+        "url": "https://www.fundsexplorer.com.br/funds/pord11",
+        "variacao": "0,71%"
+    },
+    {
+        "nome": "IRDM11",
+        "url": "https://www.fundsexplorer.com.br/funds/irdm11",
+        "variacao": "-2,24%"
+    },
+    {
+        "nome": "KORE11",
+        "url": "https://www.fundsexplorer.com.br/funds/kore11",
+        "variacao": "-1,99%"
+    },
+    {
+        "nome": "VGIP11",
+        "url": "https://www.fundsexplorer.com.br/funds/vgip11",
+        "variacao": "-1,84%"
+    },
+    {
+        "nome": "RBRF11",
+        "url": "https://www.fundsexplorer.com.br/funds/rbrf11",
+        "variacao": "-1,74%"
+    },
+    {
+        "nome": "HGRE11",
+        "url": "https://www.fundsexplorer.com.br/funds/hgre11",
+        "variacao": "-1,72%"
     }
 ]
