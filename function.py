@@ -29,6 +29,8 @@ def call_best_Wrost_of_day():#funcao para exibir os fundos com ALTA
             print("Erro ao processar item:", e)
     links_pior = navegador.find_elements(By.CSS_SELECTOR, "div.tab2 div.dataBox")#/div tab2 / div dataBox
 
+    
+    
     for item in links_pior:
         try:
             nome = item.find_element(By.TAG_NAME, "a").text.strip()# procura o nome do fundo
