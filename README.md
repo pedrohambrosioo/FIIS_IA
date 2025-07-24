@@ -1,4 +1,4 @@
-# 📌 Versão: 2-07-2025
+# 📌 Versão: 24-07-2025
 
 Nesta versão do projeto, foi desenvolvido e integrado o módulo de **web scraping**, responsável por coletar dados automaticamente de uma fonte externa e armazená-los de forma estruturada.
 
