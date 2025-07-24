@@ -1,18 +1,18 @@
-# 📌 Versão: 22-07-2025
+# 📌 Versão: 2-07-2025
 
 Nesta versão do projeto, foi desenvolvido e integrado o módulo de **web scraping**, responsável por coletar dados automaticamente de uma fonte externa e armazená-los de forma estruturada.
 
 ## 🧠 O que foi feito
 
-- Implementação do processo de web scraping.
-- Coleta automatizada dos dados consultados.
-- Salvamento dos dados em uma **tabela organizada** para facilitar análise e reutilização.
-- Preparação do código para treinamento de uma LLM (Large Language Model).
+- Criação de um pequeno banco de dados para Fine Tunning.
+- Conigurações de token baseado no Gpt-2.
+- mais de 85 milhões de parâmetros.
+
 
 ## 🚀 Objetivo
 
-Iniciar o versionamento da etapa de coleta de dados automatizada, criando uma base sólida para evoluções futuras do projeto.
+Treiar uma IA perita em investimento, baseada em dados de webScrapping.
 
 ---
 
-> 📁 Esta versão está na branch: `versao-22-07-2025`
+
